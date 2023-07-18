@@ -1,9 +1,8 @@
 package routers
 
 import (
-	"tugasdua/configs"
-	"tugasdua/controllers"
-
+	"github.com/Oktapratama/assignment2.git/config"
+	"github.com/Oktapratama/assignment2.git/controllers"
 	"github.com/gin-gonic/gin"
 )
 

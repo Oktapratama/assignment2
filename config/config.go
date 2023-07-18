@@ -1,8 +1,7 @@
 package configs
 
 import (
-	"tugasdua/models"
-
+	"github.com/Oktapratama/assignment2.git/models"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 )

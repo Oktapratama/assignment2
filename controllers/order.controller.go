@@ -2,8 +2,7 @@ package controllers
 
 import (
 	"net/http"
-	"tugasdua/models"
-
+	"github.com/Oktapratama/assignment2.git/models"
 	"github.com/gin-gonic/gin"
 	"gorm.io/gorm"
 )

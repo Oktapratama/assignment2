@@ -1,6 +1,6 @@
 package main
 
-import "tugasdua/routers"
+import "github.com/Oktapratama/assignment2.git/routers"
 
 func main() {
 	var PORT = ":8080"
